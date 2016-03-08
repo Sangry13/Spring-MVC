@@ -1,0 +1,2 @@
+Error: -java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException?
+Solution: - Try coping commons-logging.jar file to WEB-INF/lib folder.
